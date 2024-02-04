@@ -33,7 +33,6 @@ batch:
             - 8
             - 9
             - 10
-            
 
 phases:
   install:
